@@ -1,8 +1,8 @@
 i = 1
 while i < 7:
     print(i)
-    if(i == 7):
-        break
+    if i == 1:
+       break
     i += 1
 
 
